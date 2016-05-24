@@ -2,7 +2,7 @@
 
 **TODO: Learn Elixir**
 
-[Tutorial](https://howistart.org/posts/elixir/1)
+[Portal Tutorial](https://howistart.org/posts/elixir/1)
 
 ## Installation
 
